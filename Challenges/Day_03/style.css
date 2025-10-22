@@ -3,7 +3,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: rgba(216, 170, 170, 0.795);
+  background: rgba(255, 255, 255, 0.795);
 }
 
 ul {
@@ -13,8 +13,8 @@ ul {
 ul li {
   position: relative;
   list-style: none;
-  width: 60px;
-  height: 60px;
+  width: 100px;
+  height: 100px;
   margin: 25px;
   transform: rotate(-15deg) skew(20deg);
 }
